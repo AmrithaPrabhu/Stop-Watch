@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(23, 38, 51);
+}
+div{
+    margin-top: 200px;
+}
+.write{
+    font-size: 25px;
+}
+p{
+    display: inline;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 150px;
+    padding-top: 200px;
+}
+#hr{
+    margin-left: 270px;
+    margin-top: 200px;
+}
+.time{
+    
+    font-size: 220px;
+}
+#start{
+    margin-left: 560px;
+    background-color: rgb(39, 118, 62);
+}
+#stop{
+    margin-left: 20px;
+    background-color: rgb(152, 39, 35);
+}
+#reset{
+    margin-left: 20px;
+    background-color: rgb(44, 44, 164);
+}
+button{
+    color: white;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    font-weight: bold;
+} 
